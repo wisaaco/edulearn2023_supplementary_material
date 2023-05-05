@@ -2,7 +2,7 @@
 
 ## 4.2. Self-assessment
 
-** I am interviewing a painter who has exhibited his new work, what questions could I ask him?
+**I am interviewing a painter who has exhibited his new work, what questions could I ask him?**
 
 > Here are some questions you could ask a painter who has exhibited their new work:
 > 
@@ -18,7 +18,7 @@
 > 10. What are your plans for future artistic projects?
 
 
-** How would you assess the suitability of this question within the previous questions and in the nature of the interview?
+**How would you assess the suitability of this question within the previous questions and in the nature of the interview?**
 **- Are your paintings expensive?
 
 > This question may not be suitable for the nature of the interview as it focuses on the price of the paintings rather than the artistic value, creative process, or inspiration behind the works. It may also come across as impolite or inappropriate to the artist. It would be better to focus on questions related to the artist's creative process, inspiration, technique, and themes explored in their artwork.
@@ -27,7 +27,7 @@
 
 **Can you explain the difference between solar and lunar calendars?**
 
-Solar and lunar calendars are two types of calendars used by different cultures around the world.
+> Solar and lunar calendars are two types of calendars used by different cultures around the world.
 
 A solar calendar is based on the length of the solar year, which is the time it takes for the Earth to complete one orbit around the sun. A typical solar year is approximately 365.24 days long, and solar calendars usually have 365 or 366 days in a year to account for this.
 
@@ -37,7 +37,7 @@ One key difference between the two types of calendars is that a solar calendar i
 
 **What is gravity?**
 
-Gravity is a fundamental force of nature that causes two bodies to attract each other. It is the force that pulls objects towards each other, like the force that pulls you towards the Earth. The strength of the gravitational force depends on the mass of the objects and the distance between them.
+> Gravity is a fundamental force of nature that causes two bodies to attract each other. It is the force that pulls objects towards each other, like the force that pulls you towards the Earth. The strength of the gravitational force depends on the mass of the objects and the distance between them.
 
 According to Albert Einstein's theory of General Relativity, gravity is the curvature of spacetime caused by the presence of mass or energy. This means that massive objects like stars and planets create a "dip" in spacetime, and objects moving nearby are pulled towards them along the curvature of spacetime.
 
@@ -47,11 +47,11 @@ User
 **What is gravity for primary school students**
 
 
-Gravity is the force that pulls things towards each other. It is what makes things fall down when you drop them. The Earth has gravity, which is why we stay on the ground instead of floating away. The strength of gravity depends on how big an object is and how close it is to other objects. That's why the Moon stays in orbit around the Earth, and why the Earth stays in orbit around the Sun. Gravity is an important force in the universe, and it helps to keep everything in its place!
+> Gravity is the force that pulls things towards each other. It is what makes things fall down when you drop them. The Earth has gravity, which is why we stay on the ground instead of floating away. The strength of gravity depends on how big an object is and how close it is to other objects. That's why the Moon stays in orbit around the Earth, and why the Earth stays in orbit around the Sun. Gravity is an important force in the universe, and it helps to keep everything in its place!
 
 **What is gravity for secondary school students. Include the fundamental equations**
 
-Gravity is a fundamental force of nature that causes two bodies to attract each other. It is described by the law of universal gravitation, which states that the force of gravity between two objects is directly proportional to the product of their masses and inversely proportional to the square of the distance between them:
+> Gravity is a fundamental force of nature that causes two bodies to attract each other. It is described by the law of universal gravitation, which states that the force of gravity between two objects is directly proportional to the product of their masses and inversely proportional to the square of the distance between them:
 
 F = G * (m1 * m2) / r^2
 
