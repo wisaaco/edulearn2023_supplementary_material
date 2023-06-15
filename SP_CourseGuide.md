@@ -2,7 +2,7 @@
 
 ## 3.3 Course guide and scheduling
 
-** What didactic units would you work on in a Biology and Geology course in your first year of high school?
+**What didactic units would you work on in a Biology and Geology course in your first year of high school?**
 
 > In a Biology and Geology course for the first year of high school, the following are some potential didactic units that could be covered:
 > 
@@ -24,7 +24,7 @@
 > 
 > Overall, these didactic units would provide a broad overview of the key concepts and topics in Biology and Geology, giving students a strong foundation in both fields of study.
 
-** and in the same subject in a last year of institute?
+**and in the same subject in a last year of institute?**
 
 > In a Biology and Geology course for the final year of high school, the following are some potential didactic units that could be covered:
 > 
@@ -47,7 +47,7 @@
 > Overall, these didactic units would provide a more in-depth exploration of the key concepts and topics in Biology and Geology, giving students a deeper understanding of the scientific principles and methods involved.
 
 
-** What kind of educational geographical excursions can I do in Mallorca?
+**What kind of educational geographical excursions can I do in Mallorca?**
 
 > Mallorca, the largest of the Balearic Islands in Spain, offers a variety of opportunities for educational geographical excursions. Here are a few ideas:
 > 
@@ -63,7 +63,7 @@
 > 
 > Overall, Mallorca offers a diverse range of educational geographical excursions, allowing students to learn about geology, ecology, and culture in a beautiful and fascinating setting.
 
-** Could you recommend which educational concepts work under this set of themes: "Health and illness. Infectious and non-infectious diseases. Hygiene and prevention."?
+**Could you recommend which educational concepts work under this set of themes: "Health and illness. Infectious and non-infectious diseases. Hygiene and prevention."?**
 
 > Sure! Here are some educational concepts that could be relevant to the themes of "Health and illness, Infectious and non-infectious diseases, and Hygiene and prevention":
 > 
@@ -80,7 +80,7 @@
 > 
 > These concepts could be used to develop lesson plans, activities, and assessments that address the themes of health and illness, infectious and non-infectious diseases, and hygiene and prevention.
 
-** What educational activities i a laboratory can we do with children to reflect on "Personal hygiene practice"?
+* What educational activities i a laboratory can we do with children to reflect on "Personal hygiene practice"?¿¿
 
 > There are a variety of educational activities that can be conducted in a laboratory setting to teach children about personal hygiene practices. Here are a few examples:
 > 
