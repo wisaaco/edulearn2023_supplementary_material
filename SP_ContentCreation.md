@@ -2,7 +2,7 @@
 
 ## 3.1 Pedagogical content creation
 
-** What content would you teach in a Music course and in a music analysis course?
+**What content would you teach in a Music course and in a music analysis course?**
 
 > A Music course and a Music Analysis course would cover different topics and skills.
 > 
@@ -11,7 +11,7 @@
 > In a Music Analysis course, the focus would be on studying and analyzing pieces of music in detail. This would involve learning how to identify and analyze musical elements such as harmony, melody, rhythm, and form, as well as exploring the historical and cultural contexts in which the music was created. Students would also gain practical skills in music notation and score analysis. The course might include the study of music from different historical periods and genres, as well as the use of different analytical tools and approaches.
 
 
-** What content would you teach in a Music subject within the block of knowledge of: The block "Interpretation, improvisation and scenic creation"?
+**What content would you teach in a Music subject within the block of knowledge of: The block "Interpretation, improvisation and scenic creation"?**
 
 > In a Music subject within the block "Interpretation, improvisation and scenic creation," the following content can be covered:
 > 
