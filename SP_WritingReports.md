@@ -2,7 +2,7 @@
 
 ## 4.1. Writing reports
 
-** Can you write a report about Japan at a fourth-grade level?
+**Can you write a report about Japan at a fourth-grade level?**
 
 > Sure, I can write a report about Japan at a fourth-grade level!
 > 
@@ -17,7 +17,7 @@
 > Japan has a rich history and has been around for thousands of years. They have had many emperors and rulers over the years, and have had to overcome many challenges, such as natural disasters and wars. Today, Japan is a thriving and modern country that is known all over the world for its unique culture, technology, and beautiful landscapes.
  
 
-**Can you give me more information about biodiversity in Japan?
+**Can you give me more information about biodiversity in Japan?**
 
 > Sure, I can give you some information about biodiversity in Japan!
 
@@ -38,7 +38,7 @@
 > Japan also has a large number of marine species living in its waters, such as various types of fish, sea turtles, and whales. However, like many other countries, Japan's biodiversity has been threatened by human activity, such as deforestation, pollution, and overfishing. In recent years, the Japanese government has been working to protect its natural resources and wildlife through conservation efforts and national parks.
 
 
-** Can you give me more information about tectonic plates in Japan?
+**Can you give me more information about tectonic plates in Japan?**
 
 > Yes, I can give you some information about tectonic plates in Japan!
 > 
@@ -52,7 +52,7 @@
 > 
 > Overall, Japan's location at the boundary of several tectonic plates makes it a geologically fascinating and active region. While this activity poses risks to the country, Japan's advanced technology and preparedness have helped it cope with the challenges posed by its location.
 
-** Can you give me more information about  earthquake-resistant building technologies and evacuation procedures in Japan?
+** Can you give me more information about  earthquake-resistant building technologies and evacuation procedures in Japan?**
 
 > Yes, I can give you some information about earthquake-resistant building technologies and evacuation procedures in Japan!
 > 
@@ -66,7 +66,7 @@
 > 
 > Overall, Japan's advanced earthquake-resistant building technologies and well-established evacuation procedures have helped the country cope with the significant earthquake risk it faces. While earthquakes continue to pose a challenge to Japan, the country's preparedness and technology have helped minimize the impact of earthquakes and keep its citizens safe.
 
-** Can you provide me with bibliographic references about the information you gave me earlier?
+**Can you provide me with bibliographic references about the information you gave me earlier?**
 
 > Certainly! Here are some references for the information I provided earlier:
 > 
@@ -86,7 +86,7 @@
 >         "Japan's high-tech earthquake measures" by BBC News: https://www.bbc.com/news/business-43717296
 
 
-** Can you provide me with references for fourth-grade levelabout the information you gave me earlier?
+**Can you provide me with references for fourth-grade levelabout the information you gave me earlier?**
 
 > Sure, here are some resources that provide information on Japan at a fourth-grade level:
 > 
@@ -100,7 +100,7 @@
 
 > These resources are written specifically for fourth-grade level students and should be easy to understand while still providing valuable information on Japan.
 
-** Can you provide me with images about the information you gave me earlier?
+**Can you provide me with images about the information you gave me earlier?**
 
 > As an AI language model, I do not have the capability to provide images directly, but I can certainly provide you with some resources where you can find relevant images related to the topics we discussed earlier:
 > 
