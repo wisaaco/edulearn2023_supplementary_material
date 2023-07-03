@@ -16,12 +16,11 @@ pages={-}
 
 - 3. RESULTS FROM THE TEACHER’S POINT OF VIEW
   - 3.1 [Pedagogical content creation](SP_ContentCreation.md)
-  - 3.2 [Students assessment](SP_StudentsAssessment.md)
-  - 3.3 [Course guide and scheduling](SP_CourseGuide.md)
+  - 3.2 [Course guide and scheduling](SP_CourseGuide.md)
 
 - 4. RESULTS FROM STUDENT’S POINT OF VIEW
    - 4.1 [Writing reports](SP_WritingReports.md)
    - 4.2 [Self-assessment](SP_SelfAssessment.md)
-   - 4.3 [Support for learning tasks](SP_SupportLearning.md)
-   - 4.4 [Solving activities](SP_SolvingActivities.md)
+
+
   
